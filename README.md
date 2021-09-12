@@ -1,1 +1,2 @@
-# Random-choice-picker
+# Random choice picker
+## HTML CSS JS
